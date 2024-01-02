@@ -4,7 +4,7 @@ kind: Application
 metadata:
   name: dev-app1
   namespace: argocd
-    finalizers:
+  finalizers:
     - resources-finalizer.argocd.argoproj.io
 spec:
   project: default
