@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: secdevopsjourney/nginx:v0.1.0
+        image: secdevopsjourney/nginx:v0.3.0
         ports:
         - containerPort: 80
