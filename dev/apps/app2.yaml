@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aminrj/10-gitops.git
+    repoURL: https://github.com/rsrini83/my-gitops.git
     targetRevision: HEAD
     path: dev/apps/app2
   destination:
